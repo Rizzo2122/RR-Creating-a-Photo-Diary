@@ -1,4 +1,4 @@
-
+import { koalas } from './koalas'
 let activeKoala = null
 
 // Changes the active koala, then re-renders the page to display that koala
